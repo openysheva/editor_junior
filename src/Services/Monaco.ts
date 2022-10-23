@@ -11,8 +11,6 @@ import ReactDOM from 'react-dom';
 import styled, { createGlobalStyle } from 'styled-components';
 import { HashRouter } from 'react-router-dom';
 
-/* Уровень Junior */
-
 /* Задача № 1 */
 
 /* 
